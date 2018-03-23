@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556441400398",
+    "firebase_url": "https://chat-d55a0.firebaseio.com",
+    "project_id": "chat-d55a0",
+    "storage_bucket": "chat-d55a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556441400398:android:673d729ac2008ba4",
+        "android_client_info": {
+          "package_name": "com.example.rangamadushan.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556441400398-chi8avagcbtfn4p53amqea7s4pcfh42h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rangamadushan.chat",
+            "certificate_hash": "165d7753af1f8f33d4e0c57bd9e8b41a480ddcaa"
+          }
+        },
+        {
+          "client_id": "556441400398-ct0i50ng92dlegsjbeem4j73km92bnmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcdUz1BzZKKJNfH2LfRkhaze0q9ABdkkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556441400398-ct0i50ng92dlegsjbeem4j73km92bnmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
